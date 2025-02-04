@@ -1,0 +1,6 @@
+{
+    "pylint.args": [
+        "--init-hook",
+        "import sys; sys.path.insert(0, './ilm_code_test')"
+    ],
+}
